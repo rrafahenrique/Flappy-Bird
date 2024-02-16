@@ -17,6 +17,9 @@
  - Aperte Barra de Espaço para iniciar o jogo;
  - Controle o pássaro com a Barra de Espaço
  - Quando o pássaro colidir com o cano ou cair no chão, a tela de Game Over aparecerá, para jogar novamente basta clicar com o mouse no botão Restart.
+
+ # Funcionalidade
+ - Efeito sonoro
  
  # Imagens
  ![img1](https://user-images.githubusercontent.com/115511374/199855941-6c790b15-0619-4521-88c0-88eb62d3e263.png)
