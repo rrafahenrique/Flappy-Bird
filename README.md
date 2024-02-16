@@ -12,7 +12,6 @@
  - Biblioteca: Pygame 2.1.1
  - Programação Orientada a Objeto (POO)
  
-
  # Gameplay
  - Jogo completo, menu, restart, sistema de pontuação;
  - Aperte Barra de Espaço para iniciar o jogo;
@@ -20,7 +19,6 @@
  - Quando o pássaro colidir com o cano ou cair no chão, a tela de Game Over aparecerá, para jogar novamente basta clicar com o mouse no botão Restart.
  
  # Imagens
-
  ![img1](https://user-images.githubusercontent.com/115511374/199855941-6c790b15-0619-4521-88c0-88eb62d3e263.png)
  
  ![img2](https://user-images.githubusercontent.com/115511374/199856244-9f9dd663-b2c8-4957-a8fd-3e3626b7712c.png)
