@@ -5,7 +5,7 @@
  
 
  # Introdução
- Este projeto tem como objetivo contruir um réplica do jogo Flap Bird. Foi utilizado o conceito de Classe e Programação Orientada a Objeto (POO), também foi usado sprite para deixar o jogo mais bonito.
+ Este projeto tem como objetivo contruir um réplica do jogo Flappy Bird. Foi utilizado o conceito de Classe e Programação Orientada a Objeto (POO), também foi usado sprite para deixar o jogo mais bonito.
 
  # Linguagens e Tecnologias Usadas
  - Linguagem: Python 3.10
